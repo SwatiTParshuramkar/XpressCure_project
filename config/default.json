@@ -1,0 +1,6 @@
+
+
+{
+    "mongoURI" : "mongodb+srv://Swati23:XpressCure@cluster0.iprx6ic.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
